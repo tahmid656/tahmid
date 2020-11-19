@@ -1,0 +1,183 @@
+html
+{
+    box-sizing:border-box;
+    font-size:100%;
+
+}
+*,:after,:before{
+     box-sizing:inherit;
+ }
+body
+{
+    background-color: black;
+    max-width: 100%;
+    display: block;
+    height:100vh;
+    color:#fff;
+    text-align:center;
+    font-family:Roboto,sans-serif;
+}
+.bg-image {
+    /* The image used */
+    background-image: url("https://res.cloudinary.com/tahmid-rahman/image/upload/v1600925312/crayz/bg_r4nfzp.png");
+    /* Add the blur effect */
+    filter: blur(30px);
+    -webkit-filter: blur(20px);
+    /* Full height */
+    width: 100%;
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    display: block;
+    opacity: .8;
+}
+.content{
+    position: relative;
+    margin: 0 auto;
+    width: 342px;
+    z-index: 2;
+    margin-bottom: 15px;
+}
+.logo
+{
+    width:250px;
+    margin: 10px 0;
+}
+
+.cover{
+    width: 342px;
+    height: 342px;
+
+}
+
+.play {
+    background-color: #000;
+    border-radius: 50% / 10%;
+    color: #FFFFFF;
+    font-size: 1.5em; /* change this to change size */
+    height: 3em;
+    margin: 20px auto;
+    padding: 0;
+    text-align: center;
+    text-indent: 0.1em;
+    transition: all 150ms ease-out;
+    width: 4em;
+    position: absolute;
+    top: 25.5%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%,-50%,0);
+    transform: translate3d(-50%,-50%,0);
+    opacity: .8;
+}
+
+.play:hover {
+    background: red;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.play::before {
+    background: inherit;
+    border-radius: 5% / 50%;
+    bottom: 9%;
+    content: "";
+    left: -5%;
+    position: absolute;
+    right: -5%;
+    top: 9%;
+}
+
+.play::after {
+    border-style: solid;
+    border-width: 1em 0 1em 1.732em;
+    border-color: transparent transparent transparent rgba(255, 255, 255, 1);
+    content: ' ';
+    font-size: 0.75em;
+    height: 0;
+    margin: -1em 0 0 -0.75em;
+    top: 50%;
+    position: absolute;
+    width: 0;
+}
+
+.bg-container{
+    background-color: #1a1a1a;
+}
+
+.ytp-cued-thumbnail-overlay-image{
+    background-image: url("https://res.cloudinary.com/tahmid-rahman/image/upload/v1600925312/crayz/bg_r4nfzp.png");!important;
+    width: 100%;
+}
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+a.featured:hover,a:hover{
+    background-color: #474747;
+    color:#fff;
+}
+.plat-container a
+{
+    border-bottom: #2f2f2f solid .01rem;
+    display:block;
+    max-width:400px;
+    margin:0 auto;
+    padding:15px 20px;
+    font-size:.85rem;
+    color:#fff;
+    text-decoration:none;
+    transition:all .2s ease-in-out;
+}
+
+.platform{
+    width: 100px;
+}
+
+.channel{
+    width: 20px;
+}
+.channel-2{
+    margin-top: 1px;
+    width: 28px;
+}
+
+h2
+{
+    font-size:20px;
+    /*text-transform:uppercase;*/
+    font-weight:800;
+    margin-bottom: 10px;
+}
+.channels
+{
+    display:flex;
+    max-width:400px;
+    margin:0 auto;
+}
+
+.channels a:hover{
+    background-color: #474747;
+}
+
+.channels a
+{
+    flex:1;
+    /*padding:5px 10px;*/
+    margin-right:10px;
+    background-color:#1a1a1a;
+    border:none;
+}
+
+.channels a:last-child
+{
+    margin-right:0
+}.channels a:hover{
+     text-decoration:underline;
+ }

@@ -1,0 +1,255 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: 'Ralewayz';
+    src: url('../fonts/Raleway-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway-l';
+    src: url('../fonts/Raleway-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway-M';
+    src: url('../fonts/Raleway-Medium.ttf');
+}
+
+html,
+body {
+    min-width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background: url("../assets/web-gif.gif");
+    background-repeat: no-repeat;
+    background-position: center top ;
+    background-color: black;
+    display: block;
+    overflow: hidden;
+}
+
+.flex-container {
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 100%;
+    display: flex;
+}
+
+body[data-aos-duration='1000'] [data-aos],
+[data-aos][data-aos][data-aos-duration='1000'] {
+
+    transition-delay: 6000ms; !important;
+}
+
+body[data-aos-duration='500'] [data-aos],
+[data-aos][data-aos][data-aos-duration='500'] {
+
+    transition-delay: 6200ms; !important;
+}
+
+body[data-aos-duration='800'] [data-aos],
+[data-aos][data-aos][data-aos-duration='800'] {
+
+    transition-delay: 6400ms; !important;
+}
+
+body[data-aos-duration='600'] [data-aos],
+[data-aos][data-aos][data-aos-duration='600'] {
+
+    transition-delay: 6800ms; !important;
+}
+
+.flex-container>div {
+    margin: 20px 10px 10px 10px;
+    font-size: 30px;
+    color: white;
+}
+
+.hero-2{
+    border-top: antiquewhite 1px solid;
+}
+
+.hero-3{
+    border-top: antiquewhite 1px solid;
+}
+
+.con-text{
+    color: white;
+    font-family: "Ralewayz", serif;
+    word-break: break-word;
+}
+
+.title{
+    margin-top: 2%;
+    color: white;
+    font-family: "Ralewayz", serif;
+    font-size: 1.5vh;
+}
+
+.info{
+    margin-top: 10px;
+    color: white;
+    font-family: "Raleway-l", serif;
+    word-break: break-all;
+}
+
+.responsive{
+    width: 80%;
+    max-width: 100px;
+    height: auto;
+}
+
+a {
+    color: white
+}
+
+.fa-instagram{
+    transition: 0.2s ease-in-out;
+}
+
+.fa-linkedin-in{
+    transition: 0.2s ease-in-out;
+}
+
+.box{
+    margin-right: 12px;
+}
+
+.fa-linkedin-in:hover{
+    color:grey;
+    transition: 0.2s ease-in-out;
+}
+
+.fa-instagram:hover{
+    color: grey;
+    transition: 0.2s ease-in-out;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .con-text{
+        margin-top: 420px;
+        font-size: 3vh;
+    }
+    .info{
+        font-size: 1.5vh;
+    }
+
+}
+
+@media(max-width: 580px) {
+    .hero-1{
+        width: 480px;
+    }
+
+    .hero-2{
+        width: 220px;
+    }
+
+    .hero-3{
+        width: 220px;
+    }
+
+    .con-text{
+        margin-top: 420px;
+        font-size: 3vh;
+    }
+    .info{
+        font-size: 14px;
+    }
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .hero-1{
+        width: 460px;
+    }
+
+    .hero-2{
+        width: 280px;
+    }
+
+    .hero-3{
+        width: 280px;
+    }
+    .con-text{
+        margin-top: 420px;
+        font-size: 3vh;
+    }
+    .info{
+        font-size: 14px;
+    }
+}
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .hero-1{
+        width: 460px;
+    }
+
+    .hero-2{
+        min-width: 200px;
+    }
+
+    .hero-3{
+        min-width: 200px;
+    }
+    .con-text{
+        margin-top: 400px;
+        font-size: 4vh;
+    }
+    .info{
+        font-size: 15px;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .hero-1{
+        width: 450px;
+    }
+
+    .hero-2{
+        width: 280px;
+    }
+
+    .hero-3{
+        width: 280px;
+    }
+    .con-text{
+        margin-top: 380px;
+        font-size: 5vh;
+    }
+    .info{
+        font-size: 15px;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .hero-1{
+        width: 800px;
+    }
+
+    .hero-2{
+        width: 300px;
+    }
+
+    .hero-3{
+        width: 300px;
+    }
+    .con-text{
+        margin-top: 350px;
+        font-size: 6vh;
+    }
+    .info{
+        font-size: 14px;
+    }
+}
