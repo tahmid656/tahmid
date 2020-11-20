@@ -30,7 +30,9 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="shortcut icon" href="../assets/thumb.png" type="image/png">
     <link rel="stylesheet" href="../css/animate.min.css">
-
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </head>
 <body>
 <a id="button"></a>
@@ -419,11 +421,7 @@
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js"></script>
 <script src="../js/nav.js"></script>
 <script src="../js/port.js"></script>
-<script src="../js/parallax.js"></script>
 <script src="../js/lazyload.js"></script>
-<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <script>
     // init Masonry
     var $grid = $('.grid').masonry({
