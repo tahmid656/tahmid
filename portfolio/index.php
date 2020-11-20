@@ -37,6 +37,9 @@
 <body>
 <a id="button"></a>
 <!--Nav bar-->
+<?php
+header("Access-Control-Allow-Origin: *");
+?>
 <div class="wrapper">
     <section data-parallax="scroll" id="portfolio">
         <nav>
