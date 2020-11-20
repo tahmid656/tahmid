@@ -50,8 +50,8 @@
                 <ul>
                     <li><a href="https://www.tahmidrahman.com/">Home</a></li>
                     <li><a href="https://www.tahmidrahman.com/portfolio/">Portfolio</a></li>
-                    <li><!--<a href="">-->About Me<!--</a>--></li>
-                    <li><!--<a href="">-->Contact Me<!--</a>--></li>
+                    <!--<li><a href="">About Me</a></li>
+                    <li><a href="">Contact Me</a></li>-->
                 </ul>
             </div>
         </nav>
