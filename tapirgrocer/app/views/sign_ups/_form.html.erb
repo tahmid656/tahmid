@@ -1,0 +1,31 @@
+<%= form_with(model: sign_up, local: true) do |form| %>
+  <% if sign_up.errors.any? %>
+    <div class ="message is-danger">
+      <div class = "message-header">
+        <p><%= pluralize(entry.errors.count, "error") %> prohibited this entry from being saved:</p>
+      </div>
+      <div class ="message-body">
+        <ul>
+          <% entry.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+  <% end %>
+<div class="card">
+  <div class="card-content">
+    <div class="field">
+      <%= form.label :"Full Name", class: "label is-capitalized"%>
+      <%= form.text_field :fullname, class: "input is-rounded", type: "text", placeholder: "Enter your full name", id: :sign_up_fullname %>
+    </div>
+    <div class="field">
+      <%= form.label :"Store Location", class: "label is-capitalized"%>
+      <%= form.text_field :store_location, class: "input is-rounded", type: "text", placeholder: "Enter your current store location", id: :sign_up_store_location %>
+    </div>
+    <div class="actions">
+      <%= form.submit class: "button is-success is-rounded " %>
+    </div>
+  </div>
+</div>
+<% end %>

@@ -1,0 +1,39 @@
+<%= form_with(model: entry, local: true) do |form| %>
+  <% if entry.errors.any? %>
+    <div class ="message is-danger">
+      <div class = "message-header">
+        <p><%= pluralize(entry.errors.count, "error") %> prohibited this entry from being saved:</p>
+      </div>
+      <div class ="message-body">
+        <ul>
+          <% entry.errors.full_messages.each do |message| %>
+            <li><%= message %></li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+  <% end %>
+
+    <div class="card">
+      <div class="card-content">
+        <div class="field">
+          <%= form.label :"Full Name", class: "label is-capitalized"%>
+          <%= form.text_field :fullname, class: "input is-rounded", type: "text", placeholder: "Enter your full name", id: :entry_fullname %>
+        </div>
+
+        <div class="field">
+          <%= form.label :"NRIC", class: "label is-uppercase"%>
+          <%= form.number_field :nric, class: "input is-rounded", type: "text", placeholder: "Enter your NRIC number", id: :entry_nric %>
+        </div>
+
+        <div class="field">
+          <%= form.label :"Body Temperature", class: "label is-capitalized"%>
+          <%= form.number_field :body_temp, class: "input is-rounded", type: "text", placeholder: "Enter your body temperature", id: :entry_body_temp %>
+        </div>
+
+        <div class="actions">
+          <%= form.submit class: "button is-success is-rounded " %>
+        </div>
+    </div>
+  </div>
+<% end %>

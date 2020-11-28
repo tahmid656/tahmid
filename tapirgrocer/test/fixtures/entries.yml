@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fullname: MyString
+  nric: 1
+  body_temp: 1
+
+two:
+  fullname: MyString
+  nric: 1
+  body_temp: 1

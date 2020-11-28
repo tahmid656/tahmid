@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Full Name:</strong>
+  <%= @entry.fullname %>
+</p>
+
+<p>
+  <strong>NRIC:</strong>
+  <%= @entry.nric %>
+</p>
+
+<p>
+  <strong>Body Temperature:</strong>
+  <%= @entry.body_temp %>
+</p>
+
+<%= link_to 'Edit', edit_entry_path(@entry) %> |
+<%= link_to 'Back', entries_path %>
