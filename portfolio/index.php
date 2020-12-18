@@ -90,11 +90,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="creatives ban-pos mockup">
             <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231163/portfolio/port-73_dgvguw.jpg" class="img-responsive-no-load" alt = "Oak Furnitures" /><p class="img_description_2">Oak Furniture Content</p></div>
         </article>
-        <article class="anim">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Y97M1obp4UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/Y97M1obp4UE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="creatives">
             <div class = img_wrap_2><img id= "port-img"  src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231162/portfolio/port-69_xp3bbs.jpg" class="img-responsive-no-load" alt = "Safepad Content" /><p class="img_description_2">Safepad Content</p></div>
         </article>
@@ -170,11 +170,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231159/portfolio/port-51_noucko.jpg" class="img-responsive" alt = "" /><p class="img_description_2">Madlad Game Studio</p></div>
         </article>
-        <article class="anim">
-            <div class="iframe-container">
-                <iframe width="560px" height="315px" src="https://www.youtube.com/embed/Hd3FK3eWQVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560px" height="315px" src="https://www.youtube.com/embed/Hd3FK3eWQVs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="ban-pos creatives">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231164/portfolio/port-80_ypqsle.png" class="img-responsive" alt = "" /><p class="img_description_2">Jonakir Alo Banner</p></div>
         </article>
@@ -190,11 +190,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231159/portfolio/port-46_vwou5y.jpg" class="img-responsive" /><p class="img_description_2">Quiver</p></div>
         </article>
-        <article class="anim">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/meERgYhj4Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/meERgYhj4Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="art">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231165/portfolio/port-79_wl2ike.jpg" class="img-responsive" alt = "" /><p class="img_description_2">lost in dreams artwork</p></div>
         </article>
@@ -204,35 +204,35 @@ header("Access-Control-Allow-Origin: *");
         <article class="creatives">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231158/portfolio/port-44_xgwqla.jpg" class="img-responsive" /><p class="img_description_2">DIY Content</p></div>
         </article>
-        <article class="anim">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Zk__-3PdPts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/Zk__-3PdPts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="creatives">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231158/portfolio/port-43_d11ig9.jpg" class="img-responsive" /><p class="img_description_2">DIY Content</p></div>
         </article>
-        <article class="anim music">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/LgrG-LVgOFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim music">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/LgrG-LVgOFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="creatives">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231159/portfolio/port-42_wzn7f7.jpg" class="img-responsive" /><p class="img_description_2">DIY Season 4 Content</p></div>
         </article>
-        <article class="vid">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BsdOs4t8l1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="vid">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BsdOs4t8l1Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231158/portfolio/port-41_nphacr.jpg" class="img-responsive" /><p class="img_description_2">DIY Logo</p></div>
         </article>
-        <article class="vid">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/lrAzIyFejgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="vid">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/lrAzIyFejgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="creatives">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231159/portfolio/port-50_lihldh.jpg" class="img-responsive" alt =""/><p class="img_description_2">Bangladesh Independence Day Content</p></div>
         </article>
@@ -251,11 +251,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://i.imgur.com/HkpnWcTh.jpg" class="img-responsive" /><p class="img_description_2">Maze</p></div>
         </article>
-        <article class="vid">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/QCE5nxBFxXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="vid">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/QCE5nxBFxXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231158/portfolio/port-36_uuqmhg.jpg" class="img-responsive" /><p class="img_description_2">Margin Clothing Line</p></div>
         </article>
@@ -271,11 +271,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231157/portfolio/port-31_rw1ryg.jpg" class="img-responsive" /><p class="img_description_2">Hustle Hut</p></div>
         </article>
-        <article class="vid">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Ep9ZKpG6muA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="vid">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/Ep9ZKpG6muA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="creatives">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231157/portfolio/port-30_n6od23.jpg" class="img-responsive" /><p class="img_description_2">Florida Tulip Content</p></div>
         </article>
@@ -288,11 +288,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231157/portfolio/port-27_vol6yn.jpg" class="img-responsive" /><p class="img_description_2">Florida Tulip Inverted</p></div>
         </article>
-        <article class="anim">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/LdtxiE0zZRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/LdtxiE0zZRU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="mockup">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231157/portfolio/port-26_luiojt.jpg" class="img-responsive" /><p class="img_description_2">Deluxe City Mockup</p></div>
         </article>
@@ -302,11 +302,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231156/portfolio/port-24_rh4cs0.jpg" class="img-responsive" /><p class="img_description_2">Tahmid Rahman</p></div>
         </article>
-        <article class="vid">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/kEpFC5MNwbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="vid">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/kEpFC5MNwbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231156/portfolio/port-23_vmefyw.jpg" class="img-responsive" /><p class="img_description_2">Mat Podcast</p></div>
         </article>
@@ -319,38 +319,38 @@ header("Access-Control-Allow-Origin: *");
         <article class="mockup">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231156/portfolio/port-20_etjfcw.jpg" class="img-responsive" /><p class="img_description_2">Ghost Mockup</p></div>
         </article>
-        <article class="vid">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/aijPdFRWApo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="vid">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/aijPdFRWApo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231156/portfolio/port-19_xymfd7.jpg" class="img-responsive" /><p class="img_description_2">Lucifer 2-in-1</p></div>
         </article>
-        <article class="music">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/Umv5VjNusko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="music">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/Umv5VjNusko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231156/portfolio/port-18_prtwtm.jpg" class="img-responsive" /><p class="img_description_2">Mewcifer 2-in-1</p></div>
         </article>
-        <article class="anim">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/3xJeDhKDJy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/3xJeDhKDJy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231156/portfolio/port-17_chghv9.jpg" class="img-responsive" /><p class="img_description_2">Peacock</p></div>
         </article>
         <article class="logo-proc">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231155/portfolio/port-16_esn0fm.jpg" class="img-responsive" /><p class="img_description_2">Peacock Logo Process</p></div>
         </article>
-        <article class="anim music">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/u3HuTwOkSqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim music">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/u3HuTwOkSqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231155/portfolio/port-15_nwzams.jpg" class="img-responsive" /><p class="img_description_2">Eagle</p></div>
         </article>
@@ -381,11 +381,11 @@ header("Access-Control-Allow-Origin: *");
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231154/portfolio/port-6_usuert.jpg" class="img-responsive" /><p class="img_description_2">Ritual</p></div>
         </article>
-        <article class="anim music">
-            <div class="iframe-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/-aQ_d-egjQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-        </article>
+<!--        <article class="anim music">-->
+<!--            <div class="iframe-container">-->
+<!--                <iframe width="560" height="315" src="https://www.youtube.com/embed/-aQ_d-egjQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<!--            </div>-->
+<!--        </article>-->
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231154/portfolio/port-5_o1gmth.jpg" class="img-responsive" /><p class="img_description_2">Cookie</p></div>
         </article>
