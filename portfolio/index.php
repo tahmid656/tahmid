@@ -87,10 +87,10 @@ header("Access-Control-Allow-Origin: *");
     </div>
     <section id="grid-container" class="transitions-enabled fluid masonry js-masonry grid">
         <article class="logo creatives logo-proc mockup b-card ban-pos">
-            <div class = img_wrap_3><a href="https://www.tahmidrahman.com/portfolio/connect-software/"><img id= "port-img"  src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366391/connect-software/port-81_xjkomw.png" class="img-responsive" alt = "Connect Software" /><p class="img_description_2">Connect Software Brand Identity</p></a></div>
+            <div class = img_wrap_3><a href="https://www.tahmidrahman.com/portfolio/connect-software/"><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366391/connect-software/port-81_xjkomw.png" class="img-responsive-no-load" alt = "Connect Software" /><p class="img_description_2">Connect Software Brand Identity</p></a></div>
         </article>
         <article class="creatives ban-pos mockup">
-            <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-73_k5vuqv.png" class="img-responsive" alt = "Oak Furnitures" /><p class="img_description_2">Oak Furniture Content</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-73_k5vuqv.png" class="img-responsive-no-load" alt = "Oak Furnitures" /><p class="img_description_2">Oak Furniture Content</p></div>
         </article>
 <!--        <article class="anim">-->
 <!--            <div class="iframe-container">-->
@@ -98,19 +98,19 @@ header("Access-Control-Allow-Origin: *");
 <!--            </div>-->
 <!--        </article>-->
         <article class="creatives">
-            <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366433/portfolio/port-69_iehoy6.jpg" class="img-responsive" alt = "Safepad Content" /><p class="img_description_2">Safepad Content</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366433/portfolio/port-69_iehoy6.jpg" class="img-responsive-no-load" alt = "Safepad Content" /><p class="img_description_2">Safepad Content</p></div>
         </article>
         <article class="logo">
-            <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231163/portfolio/port-74_dgcncl.png" class="img-responsive" alt = "Oak Logo" /><p class="img_description_2">Oak Logo</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231163/portfolio/port-74_dgcncl.png" class="img-responsive-no-load" alt = "Oak Logo" /><p class="img_description_2">Oak Logo</p></div>
         </article>
         <article class="creatives ban-pos mockup">
-            <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366435/portfolio/port-75_i7adtd.png" class="img-responsive" alt = "Safepad Discount Content" /><p class="img_description_2">safepad discount content</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366435/portfolio/port-75_i7adtd.png" class="img-responsive-no-load" alt = "Safepad Discount Content" /><p class="img_description_2">safepad discount content</p></div>
         </article>
         <article class="b-card mockup">
-            <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-72_yj7d4j.png" class="img-responsive" alt = "TR Business Card" /><p class="img_description_2">TR Business Card</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-72_yj7d4j.png" class="img-responsive-no-load" alt = "TR Business Card" /><p class="img_description_2">TR Business Card</p></div>
         </article>
         <article class="art">
-            <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231162/portfolio/port-66_myfh5y.jpg" class="img-responsive" alt = "Unity artwork exhibition" /><p class="img_description_2">unity artwork exhibition</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231162/portfolio/port-66_myfh5y.jpg" class="img-responsive-no-load" alt = "Unity artwork exhibition" /><p class="img_description_2">unity artwork exhibition</p></div>
         </article>
         <article class="creatives">
             <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231162/portfolio/port-68_mgznjx.jpg" class="img-responsive" alt = "" /><p class="img_description_2">DIY Content</p></div>
