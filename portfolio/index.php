@@ -31,7 +31,7 @@
     <link rel="shortcut icon" href="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366800/thumb_fvmovh.png" type="image/png">
 <!--    <link rel="stylesheet" href="../css/animate.min.css">-->
 <!--    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>-->
-<!--     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"> -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">-->
 </head>
 <body>
