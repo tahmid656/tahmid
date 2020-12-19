@@ -28,10 +28,10 @@
     <link rel="stylesheet" href="../css/style3.css">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="shortcut icon" href="../assets/thumb.png" type="image/png">
+    <link rel="shortcut icon" href="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366800/thumb_fvmovh.png" type="image/png">
 <!--    <link rel="stylesheet" href="../css/animate.min.css">-->
 <!--    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css'>-->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+<!--     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css"> -->
 <!--    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">-->
 </head>
 <body>
@@ -85,10 +85,10 @@ header("Access-Control-Allow-Origin: *");
     </div>
     <section id="grid-container" class="transitions-enabled fluid masonry js-masonry grid">
         <article class="logo creatives logo-proc mockup b-card ban-pos">
-            <div class = img_wrap_3><a href="https://www.tahmidrahman.com/portfolio/connect-software/"><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597349509/connect-software/bg_fw6xrp.png" class="img-responsive-no-load" alt = "Connect Software" /><p class="img_description_2">Connect Software Brand Identity</p></a></div>
+            <div class = img_wrap_3><a href="https://www.tahmidrahman.com/portfolio/connect-software/"><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366391/connect-software/port-81_xjkomw.png" class="img-responsive-no-load" alt = "Connect Software" /><p class="img_description_2">Connect Software Brand Identity</p></a></div>
         </article>
         <article class="creatives ban-pos mockup">
-            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231163/portfolio/port-73_dgvguw.jpg" class="img-responsive-no-load" alt = "Oak Furnitures" /><p class="img_description_2">Oak Furniture Content</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-73_k5vuqv.png" class="img-responsive-no-load" alt = "Oak Furnitures" /><p class="img_description_2">Oak Furniture Content</p></div>
         </article>
 <!--        <article class="anim">-->
 <!--            <div class="iframe-container">-->
@@ -96,16 +96,16 @@ header("Access-Control-Allow-Origin: *");
 <!--            </div>-->
 <!--        </article>-->
         <article class="creatives">
-            <div class = img_wrap_2><img id= "port-img"  src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231162/portfolio/port-69_xp3bbs.jpg" class="img-responsive-no-load" alt = "Safepad Content" /><p class="img_description_2">Safepad Content</p></div>
+            <div class = img_wrap_2><img id= "port-img"  src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366433/portfolio/port-69_iehoy6.jpg" class="img-responsive-no-load" alt = "Safepad Content" /><p class="img_description_2">Safepad Content</p></div>
         </article>
         <article class="logo">
             <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231163/portfolio/port-74_dgcncl.png" class="img-responsive-no-load" alt = "Oak Logo" /><p class="img_description_2">Oak Logo</p></div>
         </article>
         <article class="creatives ban-pos mockup">
-            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231164/portfolio/port-75_wpwdou.jpg" class="img-responsive-no-load" alt = "Safepad Discount Content" /><p class="img_description_2">safepad discount content</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366435/portfolio/port-75_i7adtd.png" class="img-responsive-no-load" alt = "Safepad Discount Content" /><p class="img_description_2">safepad discount content</p></div>
         </article>
         <article class="b-card mockup">
-            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231163/portfolio/port-72_fat2ty.jpg" class="img-responsive-no-load" alt = "TR Business Card" /><p class="img_description_2">TR Business Card</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-72_yj7d4j.png" class="img-responsive-no-load" alt = "TR Business Card" /><p class="img_description_2">TR Business Card</p></div>
         </article>
         <article class="art">
             <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1597231162/portfolio/port-66_myfh5y.jpg" class="img-responsive-no-load" alt = "Unity artwork exhibition" /><p class="img_description_2">unity artwork exhibition</p></div>
@@ -416,7 +416,6 @@ header("Access-Control-Allow-Origin: *");
 </div>
 <!-- partial -->
 <!--<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>-->
-<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
 <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
 <script src='https://cdn2.hubspot.net/hub/322787/hub_generated/style_manager/1440007714979/custom/page/hack-a-thon-3/masonry.min.min.js'></script>
 <script src='https://cdn2.hubspot.net/hub/322787/hub_generated/style_manager/1440007849180/custom/page/hack-a-thon-3/isotope.min.js'></script>
