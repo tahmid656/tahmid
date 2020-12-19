@@ -87,10 +87,10 @@ header("Access-Control-Allow-Origin: *");
     </div>
     <section id="grid-container" class="transitions-enabled fluid masonry js-masonry grid">
         <article class="logo creatives logo-proc mockup b-card ban-pos">
-            <div class = img_wrap_3><a href="https://www.tahmidrahman.com/portfolio/connect-software/"><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366391/connect-software/port-81_xjkomw.png" class="img-responsive-no-load" alt = "Connect Software" /><p class="img_description_2">Connect Software Brand Identity</p></a></div>
+            <div class = img_wrap_3><a href="https://www.tahmidrahman.com/portfolio/connect-software/"><img id= "port-img"  src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366391/connect-software/port-81_xjkomw.png" class="img-responsive" alt = "Connect Software" /><p class="img_description_2">Connect Software Brand Identity</p></a></div>
         </article>
         <article class="creatives ban-pos mockup">
-            <div class = img_wrap_2><img id= "port-img" src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-73_k5vuqv.png" class="img-responsive-no-load" alt = "Oak Furnitures" /><p class="img_description_2">Oak Furniture Content</p></div>
+            <div class = img_wrap_2><img id= "port-img" src="../assets/portfolio/load.gif" data-src="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366434/portfolio/port-73_k5vuqv.png" class="img-responsive" alt = "Oak Furnitures" /><p class="img_description_2">Oak Furniture Content</p></div>
         </article>
 <!--        <article class="anim">-->
 <!--            <div class="iframe-container">-->
