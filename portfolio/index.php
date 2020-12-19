@@ -26,8 +26,8 @@
     <!--CSS-->
     <link rel="preload" href="../css/style2.css" as="style">
     <link rel="preload" href="../css/style3.css" as="style">
-<!--     <link rel="stylesheet" href="../css/style2.css">
-    <link rel="stylesheet" href="../css/style3.css"> -->
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="style3.css">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="shortcut icon" href="https://res.cloudinary.com/tahmid-rahman/image/upload/v1608366800/thumb_fvmovh.png" type="image/png">
