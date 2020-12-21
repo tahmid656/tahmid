@@ -557,6 +557,7 @@ button.learn-more .button-text {
     max-width: 100%;
     border-top: .5px solid #430F49;
     background-color: #310D34;
+    display: flow-root;
 }
 .foot-container{
     position: relative;
