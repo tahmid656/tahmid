@@ -416,6 +416,21 @@ header("Access-Control-Allow-Origin: *");
         </div>
     </div>
 </div>
+<footer id = "footer">
+   <div class="container">
+       <div class="foot-container">
+           <div class="footer-left"><img src="../assets/tr-footer.svg" alt="logo"></div>
+           <div class="footer-right">
+               <ul class="social-icons">
+                   <li><a class="instragram" href="https://www.instagram.com/tahmidrahmandesigns/" target="_blank"><i class="fab fa-instagram fa-fw"></i></a></li>
+                   <li><a class="linkedin" href="https://www.linkedin.com/in/tahmid-rahman-b38784131/" target="_blank"><i class="fab fa-linkedin-in fa-fw"></i></a></li>
+                   <li><a class="facebook" href="#"><i class="fab fa-facebook-f fa-fw"></i></a></li>
+               </ul>
+               <span class="footer-copyright">Copyright © 2020 Tahmid Rahman</span>
+           </div>
+       </div>
+   </div>
+ </footer>
 <!-- partial -->
 <!--<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>-->
 <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
@@ -483,7 +498,7 @@ header("Access-Control-Allow-Origin: *");
     });
 </script>
 </body>
-<footer id = "footer">
+<!-- <footer id = "footer">
     <div class="container">
         <div class="foot-container">
             <div class="footer-left"><img src="../assets/tr-footer.svg" alt="logo"></div>
@@ -497,5 +512,5 @@ header("Access-Control-Allow-Origin: *");
             </div>
         </div>
     </div>
-</footer>
+</footer> -->
 </html>
