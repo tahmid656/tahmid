@@ -433,14 +433,14 @@ header("Access-Control-Allow-Origin: *");
  </footer>
 <!-- partial -->
 <!--<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>-->
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js' defer></script>
-<script src='https://cdn2.hubspot.net/hub/322787/hub_generated/style_manager/1440007714979/custom/page/hack-a-thon-3/masonry.min.min.js' defer></script>
-<script src='https://cdn2.hubspot.net/hub/322787/hub_generated/style_manager/1440007849180/custom/page/hack-a-thon-3/isotope.min.js' defer></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
+<script src='https://cdn2.hubspot.net/hub/322787/hub_generated/style_manager/1440007714979/custom/page/hack-a-thon-3/masonry.min.min.js'></script>
+<script src='https://cdn2.hubspot.net/hub/322787/hub_generated/style_manager/1440007849180/custom/page/hack-a-thon-3/isotope.min.js'></script>
 <!--<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.js"></script>-->
-<script src="../js/nav.js" defer></script>
-<script src="../js/port.js" defer></script>
-<script src="../js/lazyload.js" defer></script>
+<script src="../js/nav.js"></script>
+<script src="../js/port.js"></script>
+<script src="../js/lazyload.js"></script>
 <script>
     // init Masonry
     var $grid = $('.grid').masonry({
