@@ -67,6 +67,7 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
+    border-radius: 25px;
 }
 .img-responsive-no-load {
     display: block;
@@ -178,8 +179,6 @@ img {
     text-decoration: none;
     cursor: pointer;
 }
-
-
 
 @media (max-width: 1024px) {
     .grid article {
